@@ -60,8 +60,10 @@ Ongo data set
 
 ## 8. Dashboard
 ![diagram](fig/daily.png)
+__Figure 4.__ Dashboard showing a comparative analysis of the metrics. (Not Real Data)
+
 ![diagram](fig/stepcounts.png)
-__Figure 4.__ Dashboard showing a comparative analysis of the metrics associated with different technologies. It also shows the other tags frequently occuring with these tags
+__Figure 5.__ Dashboard showing a comparative analysis of the metrics. (Not Real Data)
 
 
 ## 9. Getting Started
