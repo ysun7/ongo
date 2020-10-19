@@ -54,16 +54,13 @@ Ongo data set
 
 ### Data Collection:
 
-Original data is stored on s3 as in json format
+ - Original data is stored on s3 as in json format
 
-etl_iso.py: Loads the data files from iso system from s3, convert to spark sql fromat and load into Amazon redshift.
-
-etl_android.py: Loads the data files from android system from s3 to Amazon redshift.
-
-etl_tre.py: Loads the data files in an old app on iso system from s3 to Amazon redshift.
+ - s3toredshift.py: Loads the data files from iso and android system on s3, converts them to spark sql fromat and loads them into Amazon Redshift.
 
 ## 8. Dashboard
-![diagram](fig/db_1.png)
+![diagram](fig/daily.png)
+![diagram](fig/stepcounts.png)
 __Figure 4.__ Dashboard showing a comparative analysis of the metrics associated with different technologies. It also shows the other tags frequently occuring with these tags
 
 
