@@ -1,0 +1,5 @@
+context_network_cellular
+context_network_wifi
+integrations_AppsFlyer
+properties_from_background
+properties_isPremium
