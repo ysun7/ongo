@@ -47,7 +47,7 @@ __Figure 1.__ Pipeline depicting the flow of data.
 
 1 EC2 m5ad.xlarge instance
 
-[Installation](https://blog.insightdatascience.com/simply-install-postgresql-58c1e4ebf252)
+[Installation](https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)
 
 
 ## 5. DataSet
