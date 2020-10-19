@@ -9,12 +9,9 @@ Insight Data Engineering Fellowship Project Boston 2020C Session
 ## 1. Motivation
 
 Ongo is a platform that enables experts in the health & wellness space to launch data-driven consumer apps. For instance, if you are a yoga teacher or a fitness trainer, Ongo is a great choice for you since you don't have to hire a development team to build your own app. You may simply customize your own app with basic and premium features from Ongo platform. You may also manage access to your content with subscription features—built into the app and own your community.
-
-*Own your community and engage: Build a supportive network of members to answer questions and motivate each other!
-
-*Deliver high quality interactive programs: Easily build modular programs that adapt around your users and collect real outcomes data!
-
-*Get your own app fast and easy: One-stop shop to launch your app and always keep it fresh—plus, robust analytics help you always be your best!
+- Own your community and engage: Build a supportive network of members to answer questions and motivate each other!
+- Deliver high quality interactive programs: Easily build modular programs that adapt around your users and collect real outcomes data!
+- Get your own app fast and easy: One-stop shop to launch your app and always keep it fresh—plus, robust analytics help you always be your best!
 
 Connect with your members, wherever they are!
 Trusted by your users!
