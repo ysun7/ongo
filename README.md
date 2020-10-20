@@ -60,9 +60,11 @@ Ongo data set
 
 ## 8. Dashboard
 ![diagram](fig/daily.png)
+
 __Figure 4.__ Dashboard showing a comparative analysis of the metrics. (Not Real Data)
 
 ![diagram](fig/stepcounts.png)
+
 __Figure 5.__ Dashboard showing a comparative analysis of the metrics. (Not Real Data)
 
 
