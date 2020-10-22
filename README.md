@@ -67,17 +67,3 @@ __Figure 4.__ Dashboard showing a comparative analysis of the metrics. (Not Real
 
 __Figure 5.__ Dashboard showing a comparative analysis of the metrics. (Not Real Data)
 
-
-## 9. Getting Started
-
-Post installation of all the components of the pipeline, it can be used in two ways:
-### 1. Initialize the Dag in Airflow and launch it on airflow scheduler:
-
-` cp /home/ubuntu/stackInsight/src/airflow/de_dag.py /home/ubuntu/airflow/de_dag.py`
- 
-` python de_dag.py`
-  
-### 2. Run the following scripts:
-
-./data_collection.sh
-
