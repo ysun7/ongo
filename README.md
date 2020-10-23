@@ -1,4 +1,4 @@
-# ongo
+# Healthier Life
 
 Insight Data Engineering Fellowship Project Boston 2020C Session
 
@@ -57,6 +57,17 @@ Ongo data set
  - Original data is stored on s3 as in json format
 
  - s3toredshift.py: Loads the data files from iso and android system on s3, converts them to spark sql fromat and loads them into Amazon Redshift.
+ 
+## 7. Engineering Challenge
+
+ - Proposed final schema that contains all the useful information
+ - 3 schemas into 1
+   - Sub Columns existing in IOS but not in Android or TRE
+   - Sub Even data from TRE has flexible data schema
+ - Data cleaning
+ - Data type compatibility between PySpark and Redshift:
+   - Sub Redshift doesn't take 'bit' type from pyspark.sql
+
 
 ## 8. Dashboard
 ![diagram](fig/daily.png)
