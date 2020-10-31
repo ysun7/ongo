@@ -62,11 +62,11 @@ Ongo data set
 
  - Proposed final schema that contains all the useful information
  - 3 schemas into 1
-   - Sub Columns existing in IOS but not in Android or TRE
-   - Sub Even data from TRE has flexible data schema
+   - Columns existing in IOS but not in Android or TRE
+   - Event data from TRE has flexible data schema
  - Data cleaning
  - Data type compatibility between PySpark and Redshift:
-   - Sub Redshift doesn't take 'bit' type from pyspark.sql
+   - Redshift doesn't take 'bit' type from pyspark.sql
 
 
 ## 8. Dashboard
